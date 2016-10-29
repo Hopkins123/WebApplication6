@@ -7,6 +7,6 @@ namespace WebApplication6
 {
     public class Class1
     {
-        ///sadasdasdasd
+       // asdasdsad
     }
 }
